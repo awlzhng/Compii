@@ -1,1 +1,1 @@
-# lumohack2018
+# Compii
