@@ -1,0 +1,68 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "intelligent compassion",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HowIntent",
+                    "slots": [],
+                    "samples": [
+                        "wonderful",
+                        "okay",
+                        "worse",
+                        "better",
+                        "fantastic",
+                        "great",
+                        "so-so",
+                        "alright",
+                        "Bad",
+                        "Good"
+                    ]
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StartOverIntent",
+                    "samples": []
+                },
+                {
+                    "name": "OneToTenIntent",
+                    "slots": [],
+                    "samples": [
+                        "eleven",
+                        "ten",
+                        "nine",
+                        "eight",
+                        "seven",
+                        "six",
+                        "five",
+                        "four",
+                        "three",
+                        "two",
+                        "one",
+                        "zero"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
